@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Pooja Gour</h1>
+<h1 align="center">Hi there 👋 I'm Pooja Gour</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,cpp,git,django,flask,mongodb,react,docker" alt="Tech Stack" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-learn" />
 </p>
 
-<h3 align="center">🤝 Let's Connect</h3>
+<h3 align="center"> Let's Connect</h3>
 
 <table align="center">
   <tr>
